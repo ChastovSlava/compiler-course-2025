@@ -128,4 +128,3 @@ public:
 static clang::FrontendPluginRegistry::Add<TypeAnalysisAction>
     PluginRegistration("DataTypes_Chastov_Vyacheslav_FIIT2_ClangAST",
                        "Analyzes user-defined types structure");
-                       
